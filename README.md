@@ -2,6 +2,7 @@
 
 An interactive dashboard built with Python and Streamlit to analyze student academic performance, attendance, and placement statistics.
 
+## Live Demo : https://sarani-student-performance-dashboard.streamlit.app/
 ## 🚀 Features
 
 - 👨‍🎓 Total student count
